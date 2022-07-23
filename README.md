@@ -1,4 +1,4 @@
-## Hello there, I'm Bryan! :man_technologist: :v:
+# Hello there, I'm Bryan! :man_technologist: :v:
 
 I'm an aspiring front-end software engineer who is passionate about clean design and even cleaner code. I work with Bootstrap and React frameworks to build fantastic projects. My end goal is to find teams / projects that promote positive social engineering and environmental changes.
 
