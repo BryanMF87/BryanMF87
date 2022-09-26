@@ -5,7 +5,8 @@ I'm an aspiring front-end software engineer who is passionate about clean design
 Currently I am..
   - Looking for a remote, full-time developer position
   - Learning more complex React Hooks
-  - Building a Monkey Island themed Battleship JS game
+  - Building a project time keeper app
+  - Planning a Monkey Island themed Battleship JS game
   - Studying Spanish, Georgian, and practicing Jui Jitsu
 
 #### Find me on my [LinkedIn](https://www.linkedin.com/in/bfink777/) or [personal website](https://www.bryanfink.dev)
