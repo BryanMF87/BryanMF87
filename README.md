@@ -8,4 +8,4 @@ Currently I am..
   - Building a Monkey Island themed Battleship JS game
   - Studying Spanish, Georgian, and practicing Jui Jitsu
 
-#### Find me on my [LinkedIn](https://www.linkedin.com/in/bfink777/) or [personal website](https://www.notanactualsite.com)
+#### Find me on my [LinkedIn](https://www.linkedin.com/in/bfink777/) or [personal website](https://www.bryanfink.dev)
