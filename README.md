@@ -5,8 +5,9 @@ I'm an aspiring front-end software engineer who is passionate about clean design
 Currently I am..
   - Looking for a remote, full-time developer position
   - Learning more complex React Hooks
-  - Building a project time keeper app
+  - Just finished building a project time keeper app
   - Planning a Monkey Island themed Battleship JS game
-  - Studying Spanish, Georgian, and practicing Jui Jitsu
+  - Planning a mass-pricing tool for the American textbook industry
+  - Studying Spanish, Georgian, and practicing JuiJitsu
 
 #### Find me on my [LinkedIn](https://www.linkedin.com/in/bfink777/) or [personal website](https://www.bryanfink.dev)
