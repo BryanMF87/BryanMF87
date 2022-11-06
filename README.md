@@ -3,7 +3,7 @@
 I'm an aspiring front-end software engineer who is passionate about clean design and even cleaner code. I work with Bootstrap and React frameworks to build fantastic projects. My end goal is to find teams / projects that promote positive social engineering and environmental changes to create a better world.
 
 Currently I am..
-  - Looking for a remote, full-time developer position
+  - Looking for a remote, front-end web developer position
   - Learning more complex React Hooks
   - Just finished building a project time keeper app
   - Planning a Monkey Island themed Battleship JS game
