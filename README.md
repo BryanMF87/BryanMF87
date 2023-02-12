@@ -1,6 +1,6 @@
 # Hello there, I'm Bryan! :man_technologist: :v:
 
-I'm an aspiring front-end web developer who is passionate about clean design and even cleaner code. I work with Javascript and the React framework to build fantastic projects. My end goal is to find teams / projects that promote positive social engineering and environmental changes to create a better world.
+I'm an American front-end web developer who is currently living in the Republic of Georgia. I work with Javascript and React.js to build fantastic projects and solve real world problems.
 
 Currently I am..
   - Looking for a front-end web developer position
