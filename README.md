@@ -4,7 +4,7 @@ I'm an American front-end web developer, graphic designer, and sales specialist.
 
 Currently I am..
   - Working as a freelance web developer for the last 6 months
-  - Open to a full-time front-end developer position with a company I can learn and grow with
+  🔍 Open to a full-time front-end developer position with a company I can learn and grow with
   - Learning more about Framer Motion, Web Components, and starting to learn Node JS
   - Just finished building my 2024 personal website
   - Currently 90% done with a website for a neurodevelopment clinic using Next JS, headless Sanity CMS and i18n React library
