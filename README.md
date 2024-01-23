@@ -2,7 +2,7 @@
 
 I'm an American front-end web developer, graphic designer, and sales specialist. I work mostly with the React/Next JS ecosystem to build fantastic projects and solve real world problems.
 
-Currently I am..
+Currently I am..  
   🥷 Working as a freelance web developer since June 2023  
   🔍 Open to a full-time front-end developer position with a company I can learn and grow with  
   📖 Learning more about Framer Motion, Web Components, and starting to learn Node JS  
